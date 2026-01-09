@@ -14,5 +14,6 @@ MATA KULIAH : PENGANTAR PEMROGRAMAN
 - Tampilan tabel di terminal
 
 ## Link Dokumentasi & Demo
-- Video YouTube: 
-- Repository GitHub: 
+- Video YouTube: https://youtu.be/Y6d0_e3fljw
+
+- Repository GitHub: https://github.com/caya9/PROJECT-UAS-SEMESTER-1
